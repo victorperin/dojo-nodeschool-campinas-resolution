@@ -9,6 +9,8 @@
   "author": "NodeSchool Community",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^24.8.0"
+    "eslint": "^6.0.1",
+    "jest": "^24.8.0",
+    "jshint": "^2.10.2"
   }
 }
