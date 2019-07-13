@@ -1,0 +1,14 @@
+{
+  "name": "dojo-01",
+  "version": "1.0.0",
+  "description": "First coding dojo in NodeSchool Campinas.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "NodeSchool Community",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
